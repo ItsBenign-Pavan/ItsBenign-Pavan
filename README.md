@@ -10,7 +10,7 @@ Currently working as an **Endpoint Security Engineer at LTIMindtree**, where I c
 ## 🛡️ About Me  
 - 🔐 **Role:** Endpoint Security Engineer | Threat Hunter  
 - 🏢 **Experience:** LTIMindtree – Microsoft Security Projects  
-- 🎯 **Focus Areas:** Threat Hunting | Detection Engineering | DFIR | Cloud Security  
+- 🎯 **Focus Areas:** Threat Hunting | Detection Engineering | AHQ
 - 🌱 Currently Learning: Advanced **Incident Response & Cloud Security**  
 - 🎓 Always exploring ways to strengthen **Blue Team operations**  
 
@@ -52,8 +52,6 @@ Currently working as an **Endpoint Security Engineer at LTIMindtree**, where I c
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/pavankumar-khot-91a95b209/))  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)  
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@YOUR-USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankumar-khot-91a95b209/)  
 
 ---
