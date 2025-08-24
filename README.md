@@ -10,7 +10,8 @@ Currently working as an **Endpoint Security Engineer at LTIMindtree**, where I c
 ## 🛡️ My Cybersecurity Learning Profiles
 
 ### TryHackMe
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-khotpavankumar27-red?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/khotpavankumar27)  <img src="https://tryhackme-badges.s3.amazonaws.com/khotpavankumar27.png" alt="Your Image Badge" />
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-khotpavankumar27-red?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/khotpavankumar27)  
+<img src="https://tryhackme-badges.s3.amazonaws.com/khotpavankumar27.png" alt="Your Image Badge" />
 
 ### LetsDefend
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-khotpavankumar27-darkgreen?logo=defender&style=for-the-badge)](https://app.letsdefend.io/user/khotpavankumar27)
