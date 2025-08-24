@@ -1,3 +1,5 @@
+<img src="https://tryhackme-badges.s3.amazonaws.com/khotpavankumar27.png" alt="Your Image Badge" />
+
 # 👋 Hi, I’m Pavan Khot  
 
 🚀 **Cybersecurity Engineer | Threat Hunter | Blue Team Defender**  
