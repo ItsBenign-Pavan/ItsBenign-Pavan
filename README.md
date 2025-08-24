@@ -1,11 +1,22 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/khotpavankumar27.png" alt="Your Image Badge" />
-
 # 👋 Hi, I’m Pavan Khot  
 
 🚀 **Cybersecurity Engineer | Threat Hunter | Blue Team Defender**  
 
 I’m a passionate cybersecurity professional specializing in **endpoint security, detection engineering, and threat hunting**.  
 Currently working as an **Endpoint Security Engineer at LTIMindtree**, where I contributed to **Microsoft security projects** focusing on advanced threat detection and defense.  
+
+---
+
+## 🛡️ My Cybersecurity Learning Profiles
+
+### TryHackMe
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-khotpavankumar27-red?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/khotpavankumar27)  <img src="https://tryhackme-badges.s3.amazonaws.com/khotpavankumar27.png" alt="Your Image Badge" />
+
+### LetsDefend
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-khotpavankumar27-darkgreen?logo=defender&style=for-the-badge)](https://app.letsdefend.io/user/khotpavankumar27)
+
+### Cybrary
+[![Cybrary](https://img.shields.io/badge/Cybrary-EnviousSpider8264-blue?logo=cybersecurity&style=for-the-badge)](https://app.cybrary.it/profile/EnviousSpider8264)
 
 ---
 
