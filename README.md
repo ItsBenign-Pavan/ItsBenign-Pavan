@@ -11,6 +11,7 @@ Currently working as an **Endpoint Security Engineer at LTIMindtree**, where I c
 
 ### TryHackMe
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-khotpavankumar27-red?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/khotpavankumar27)  
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/khotpavankumar27.png" alt="Your Image Badge" />
 
 ### LetsDefend
