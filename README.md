@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=1500&pause=100&color=0078D4&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Pavan+Khot;Cyber+Security+Consultant;Microsoft+Threat+Expert;Detection+Engineer;Microsoft+Sentinel+%7C+Defender+XDR;Threat+Hunting+%7C+KQL+%7C+Sigma+Rules;Building+Enterprise+SOC+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=30&duration=1500&pause=100&color=0078D4&center=true&vCenter=true&width=1100&lines=Hi%2C+I'm+Pavan+Khot;Cyber+Security+Consultant;Microsoft+Threat+Expert;Detection+Engineer;Microsoft+Sentinel+%7C+Defender+XDR;Threat+Hunting+%7C+KQL+%7C+Sigma+Rules;Building+Enterprise+SOC+Projects" />
 
 <br>
 
