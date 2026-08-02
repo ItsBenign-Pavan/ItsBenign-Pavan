@@ -165,15 +165,11 @@ Understand ───► Build ───► Validate ───► Detect ──�
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ItsBenign-Pavan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img src="https://komarev.com/ghpvc/?username=ItsBenign-Pavan&label=Profile%20Views&color=0078D4&style=for-the-badge"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsBenign-Pavan&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://img.shields.io/github/followers/ItsBenign-Pavan?label=Followers&style=for-the-badge&logo=github"/>
 
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://streak-stats.demolab.com?user=ItsBenign-Pavan&theme=github-dark-blue&hide_border=true"/>
+<img src="https://img.shields.io/github/stars/ItsBenign-Pavan/Azure-SOC-simulation-project?label=Azure%20SOC%20Stars&style=for-the-badge&logo=github"/>
 
 </div>
 
