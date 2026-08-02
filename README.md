@@ -32,16 +32,45 @@ Building enterprise-grade cybersecurity projects focused on **Microsoft Sentinel
 
 # About
 
-| Professional | Current Focus |
-|--------------|---------------|
-| Cyber Security Consultant | Microsoft Sentinel |
-| Microsoft Threat Expert | Microsoft Defender XDR |
-| Detection Engineer | Detection Engineering |
-| Threat Hunter | Threat Hunting |
-| Microsoft Security Ecosystem | KQL & Sigma Rules |
-| Enterprise SOC Engineering | Security Automation |
+<div align="center">
 
-Building complete security engineering solutions—not isolated labs. Every project is designed, validated, documented, and mapped to real-world SOC operations.
+| Experience | Specialization | Ecosystem | Current Focus |
+|:-----------:|:--------------:|:---------:|:-------------:|
+| **2.5+ Years** | **Detection Engineering** | **Microsoft Security** | **Enterprise SOC** |
+| Cyber Security Consultant | Threat Hunting | Sentinel • Defender XDR | Automation • KQL • Sigma |
+
+</div>
+
+<br>
+
+<div align="center">
+
+> Designing enterprise-grade security engineering solutions—from telemetry collection and detection engineering to threat hunting, incident response, automation, and documentation.
+
+</div>
+
+---
+
+# Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,windows,linux,powershell,bash,git,github,vscode,py"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microsoft_Defender_XDR-5C2D91?style=flat-square"/>
+<img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sigma_Rules-1E88E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-B22222?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sysmon-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/ELK-005571?style=flat-square"/>
+
+</div>
+
+---
 
 ---
 
@@ -49,10 +78,10 @@ Building complete security engineering solutions—not isolated labs. Every proj
 
 | Repository | Highlights |
 |------------|------------|
-| **🛡 Azure SOC Simulation Project** | Azure Infrastructure • Microsoft Sentinel • Defender XDR • Windows & Linux Telemetry • Detection Engineering • Threat Hunting • Sigma Rules • Attack Simulations • SOC Automation |
-| **📚 KQL Mastery** | Operators • Aggregations • Joins • Detection Queries • Hunting Queries • Analytics Rules • Investigation Queries |
-| **📜 Sigma Rules** | Fundamentals • Rule Development • Rule Conversion • Sentinel Deployment • Detection Validation • Rule Tuning |
-| **🔍 Detection Engineering** | Windows • Linux • Microsoft Sentinel • KQL • Sigma Rules • MITRE ATT&CK |
+| **Azure SOC Simulation Project** | Azure Infrastructure • Microsoft Sentinel • Defender XDR • Windows & Linux Telemetry • Detection Engineering • Threat Hunting • Sigma Rules • Attack Simulations • SOC Automation |
+| **KQL Mastery** | Operators • Aggregations • Joins • Detection Queries • Hunting Queries • Analytics Rules • Investigation Queries |
+| **Sigma Rules** | Fundamentals • Rule Development • Rule Conversion • Sentinel Deployment • Detection Validation • Rule Tuning |
+| **Detection Engineering** | Windows • Linux • Microsoft Sentinel • KQL • Sigma Rules • MITRE ATT&CK |
 
 ---
 
@@ -77,27 +106,6 @@ Building complete security engineering solutions—not isolated labs. Every proj
 | Incident Response | Investigation • Alert Triage • Threat Hunting • IOC Analysis |
 | Monitoring | Log Analytics • Windows Event Logs • Linux Telemetry |
 | Automation | Automation Rules • Logic Apps • Playbooks |
-
----
-
-# Tools & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=azure,windows,linux,powershell,bash,git,github,vscode,py"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microsoft_Defender_XDR-5C2D91?style=flat-square"/>
-<img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sigma_Rules-1E88E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-B22222?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sysmon-555555?style=flat-square"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/ELK-005571?style=flat-square"/>
-
-</div>
 
 ---
 
